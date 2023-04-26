@@ -1,0 +1,3 @@
+agaricus-lepiota.data is the modified Mushroom dataset file from the UCI machine learning repository
+araricus-lepiota.names is the text file describing important characteristics of the dataset/data file
+mushrooms.csv is the kaggle Excel file of the UCI mushroom dataset used with the neural network code
