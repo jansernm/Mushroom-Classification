@@ -1,0 +1,2 @@
+project.py includes data visualization and feature reduction for agaricus-lepiota.data using seaborn pairplot, random forest mean decrease in impurity (MDI), and principal component analysis (PCA) as well as the implementation and results analysis of SVC, KNN, Naive Bayes, decision tree, and logistic regression classifiers. 
+neural_network.py includes fully-connected neural network implementation using mushroom.csv.
